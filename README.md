@@ -11,5 +11,5 @@ Nessa primeira etapa do projeto, construimos a interface de um site de livros qu
 React, JS, CSS, HTML, Node.js
 
 ### Certificado
+<a href="https://cursos.alura.com.br/certificate/f5d06c91-6705-4277-a11f-5b2f466be0c1?lang=pt_BR"> Clique aqui </a>
 
-![image](https://github.com/qwer-julia/alura-books/assets/79732591/84859d87-b24e-4a7a-a381-83b8edad621c)
